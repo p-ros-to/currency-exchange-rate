@@ -1,0 +1,27 @@
+.paper {
+    width: 400px;
+    height: 250px;
+    margin: auto;
+    margin-top: 50px;
+    padding-top: 10px;
+    text-align: center;
+    background: linear-gradient(0deg, rgba(247, 208, 1, 1) 49%, rgba(0, 88, 180, 1) 51%) !important;
+}
+
+div {
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.dropdown {
+    width: 130px;
+}
+
+.button {
+    margin-top: 20px !important;
+    background: linear-gradient(0deg, rgba(247, 208, 1, 1) 49%, rgba(0, 88, 180, 1) 51%) !important;
+}
+
+button:hover {
+    background: linear-gradient(0deg, rgba(0, 0, 0, 1) 49%, rgba(205, 0, 0, 1) 51%) !important;
+}
